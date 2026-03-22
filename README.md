@@ -26,13 +26,13 @@ This project is a blog preview card with responsive design that works on both mo
 
 ### Screenshot
 
-![](/assets/images/blog-preview-desktop.png)
-![](/assets/images/blog-preview-mobile.png)
+![](./assets/images/blog-preview-desktop.png)
+![](./assets/images/blog-preview-mobile.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://wizkid0107.github.io/FEM-blog-preview-card/)
 
 ## My process
 
