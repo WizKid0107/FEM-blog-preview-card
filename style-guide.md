@@ -2,21 +2,21 @@
 
 ## Layout
 
-The designs were created to the following widths:
+    The designs were created to the following widths:
 
-- Mobile: 375px
-- Desktop: 1440px
+    - Mobile: 375px
+    - Desktop: 1440px
 
 > 💡 These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of screen sizes from 320px to large screens.
 
 ## Colors
 
-- Yellow: hsl(47, 88%, 63%)
+--Yellow: hsl(47, 88%, 63%);
 
-- White: hsl(0, 0%, 100%)
+--White: hsl(0, 0%, 100%);
 
-- Gray 500: hsl(0, 0%, 42%)
-- Gray 950: hsl(0, 0%, 7%)
+--Gray 500: hsl(0, 0%, 42%);
+--Gray 950: hsl(0, 0%, 7%);
 
 ## Typography
 
