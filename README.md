@@ -32,7 +32,7 @@ This project is a blog preview card with responsive design that works on both mo
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://wizkid0107.github.io/FEM-blog-preview-card/)
+- Live Site URL: [Live Site](https://wizkid0107.github.io/FEM-blog-preview-card/)
 
 ## My process
 
