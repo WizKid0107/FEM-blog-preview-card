@@ -73,21 +73,22 @@ article {
     line-height: 1.5;
 }
 
-h1 {
+h1{
     font-size: clamp(1.25rem, 0.376vw + 1.162rem, 1.5rem);
     font-weight: var(--fw-bold);
     color: var(--clr-gray-950);
 }
 
-h1:hover {
+.title:hover {
     color: var(--clr-yellow);
 }
 
-h2:focus {
+.title:focus {
     color: var(--clr-yellow);
+    outline: 2px solid var(--clr-gray-950);
 }
   
-a {
+.title {
     text-decoration: none;
 }
 
@@ -109,7 +110,7 @@ a {
     height: 32px;
 }
 
-footer {
+.author {
     color: var(--clr-gray-950);
     font-weight: var(--fw-bold);
     gap: 12px;
