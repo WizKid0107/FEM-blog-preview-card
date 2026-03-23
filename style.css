@@ -73,18 +73,22 @@ article {
     line-height: 1.5;
 }
 
-h2 {
+h1 {
     font-size: clamp(1.25rem, 0.376vw + 1.162rem, 1.5rem);
     font-weight: var(--fw-bold);
+    color: var(--clr-gray-950);
 }
 
-h2:hover {
+h1:hover {
     color: var(--clr-yellow);
-    cursor: pointer;
 }
 
 h2:focus {
     color: var(--clr-yellow);
+}
+  
+a {
+    text-decoration: none;
 }
 
 .description {
