@@ -79,6 +79,10 @@ h1{
     color: var(--clr-gray-950);
 }
 
+.title {
+    text-decoration: none;
+}
+
 .title:hover {
     color: var(--clr-yellow);
 }
@@ -88,10 +92,6 @@ h1{
     outline: 2px solid var(--clr-gray-950);
 }
   
-.title {
-    text-decoration: none;
-}
-
 .description {
     font-size: clamp(0.875rem, 0.188vw + 0.831rem, 1rem);
     font-weight: var(--fw-regular);
